@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller Número 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Lista de Personas</string>
+    <string name="btnNF">Abre Fragment</string>
+    <string name="txtNombre">Digite el nombre...</string>
+    <string name="txtApellido">Digite el apellido...</string>
+    <string name="txtEmail">Digite el email...</string>
+    <string name="txtTelefono">Digite el telefono...</string>
+    <string name="btnEnvData">Guardar Datos</string>
+</resources>
